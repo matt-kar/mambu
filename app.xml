@@ -1,0 +1,11 @@
+<app>
+ <id>gj8dl19d0</id>
+ <name>MExchange Rates</name>
+ <provider>Bank of Lithuania</provider>
+ <description>Bank of Lithuania Exchange Rates</description>
+ <extensionpoint>
+ <location>REPORTING_VIEW</location>
+ <label>Exchange Rates</label>
+ <url>https://www.lb.lt/exchange/default.asp?lang=e/</url>
+ </extensionpoint>
+</app>
