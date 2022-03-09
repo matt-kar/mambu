@@ -4,7 +4,7 @@
  <provider>XE Exchange</provider>
  <description>XE Exchange Tool</description>
  <extensionpoint>
- <location>REPORTING_VIEW</location>
+ <location>CLIENT_VIEW</location>
  <label>XE Exchange Tool</label>
  <url>https://xe.com/</url>
  </extensionpoint>
